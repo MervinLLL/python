@@ -1,3 +1,3 @@
 # python
-Python learning
+Python learning/n
 I will begin to studying DL
